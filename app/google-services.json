@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793346352026",
+    "firebase_url": "https://scribble-7e2ef.firebaseio.com",
+    "project_id": "scribble-7e2ef",
+    "storage_bucket": "scribble-7e2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793346352026:android:c023cd468f66187e",
+        "android_client_info": {
+          "package_name": "com.example.ompra.scribble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793346352026-71hoh5rsgpegotggaiclqm6mkup2pmeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ompra.scribble",
+            "certificate_hash": "80038d7eb7b8dee06ea0d064c900195aae1844f8"
+          }
+        },
+        {
+          "client_id": "793346352026-j8etc6umplrk7hgbqnmsg2obs08ep0ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5qOHoN77XfJJsFScF3V5CgcH20-gqLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793346352026-j8etc6umplrk7hgbqnmsg2obs08ep0ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
